@@ -1,0 +1,66 @@
+[{
+        "model": "app1.goods",
+        "pk": 1,
+        "fields": {
+            "name": "itm1",
+            "description": "val1",
+            "time_created": "2022-07-03T18:23:05.725Z"
+        }
+    }, {
+        "model": "app1.goods",
+        "pk": 2,
+        "fields": {
+            "name": "itm2",
+            "description": "val2",
+            "time_created": "2022-07-03T18:23:09.786Z"
+        }
+    }, {
+        "model": "app1.goods",
+        "pk": 3,
+        "fields": {
+            "name": "itm3",
+            "description": "val3",
+            "time_created": "2022-07-03T18:24:14.055Z"
+        }
+    }, {
+        "model": "app1.goods",
+        "pk": 4,
+        "fields": {
+            "name": "itm4",
+            "description": "val4",
+            "time_created": "2022-07-03T18:25:07.429Z"
+        }
+    }, {
+        "model": "app1.goods",
+        "pk": 5,
+        "fields": {
+            "name": "itm5",
+            "description": "val5",
+            "time_created": "2022-07-03T18:26:07.387Z"
+        }
+    }, {
+        "model": "app1.goods",
+        "pk": 6,
+        "fields": {
+            "name": "itm6",
+            "description": "val6",
+            "time_created": "2022-07-03T18:26:07.387Z"
+        }
+    }, {
+        "model": "app1.goods",
+        "pk": 7,
+        "fields": {
+            "name": "itm7",
+            "description": "val7",
+            "time_created": "2022-07-03T18:29:22.956Z"
+        }
+    }, {
+        "model": "app1.goods",
+        "pk": 8,
+        "fields": {
+            "name": "itm8",
+            "description": "val8",
+            "time_created": "2022-07-03T18:29:42.078Z"
+        }
+    }
+]

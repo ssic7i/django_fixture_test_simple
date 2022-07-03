@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="/add/" method="post">
+    {% csrf_token %}
+    <p>
+        <input name="good" id="id_good"/>
+    </p>
+    <p>
+        <input name="description" id="id_description"/>
+    </p>
+    <p>
+        <button type="submit" name="submit"/>
+    </p>
+</form>>
+
+</body>
+</html>
